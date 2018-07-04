@@ -1,0 +1,180 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://fragmentarium.ms/metadata/iiif/F-t38z/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Albany, NY, State Library of New York, Fifty Original Leaves of Medieval Manuscripts (Set 8), no. 30",
+    "metadata": [
+        {
+            "label": "Location",
+            "value": "Albany, NY"
+        },
+        {
+            "label": "Collection Name",
+            "value": "State Library of New York"
+        },
+        {
+            "label": "Shelfmark",
+            "value": "Fifty Original Leaves of Medieval Manuscripts (Set 8), no. 30"
+        },
+        {
+            "label": "Title",
+            "value": "Book of Hours (Use of Paris)"
+        },
+        {
+            "label": "Subtitle",
+            "value": "Office of the Holy Spirit, Vespers"
+        },
+        {
+            "label": "Document Code",
+            "value": "F-t38z"
+        },
+        {
+            "label": "Material",
+            "value": "Parchment"
+        },
+        {
+            "label": "Place of origin",
+            "value": "France (N.)"
+        },
+        {
+            "label": "Document Type",
+            "value": "Fragment"
+        },
+        {
+            "label": "Number of Fragment Items",
+            "value": "1 leaf"
+        },
+        {
+            "label": "Page/Folio Reference",
+            "value": "126"
+        },
+        {
+            "label": "Current Dimensions (in mm)",
+            "value": "182 x 128 mm"
+        },
+        {
+            "label": "Online Since",
+            "value": "2017-12-10"
+        },
+        {
+            "label": "Size/Ruler",
+            "value": "Image Metadata"
+        },
+        {
+            "label": "Reconstruction Summary",
+            "value": "Inc. / Exp.: Gloria patri et filio et spirtui.../...demon infernalis. Protegat et nu[triat]...\r\nDamaged on bottom right verso.\r\nCatchword \"triat\" in lower right margin of verso."
+        },
+        {
+            "label": "Reconstruction Summary Author",
+            "value": "Erin Weinman"
+        },
+        {
+            "label": "Date of origin",
+            "value": "1425 \u2013 1450 CE"
+        },
+        {
+            "label": "Persons",
+            "value": "Author: Ege, Otto F."
+        },
+        {
+            "label": "Illuminated",
+            "value": "Yes"
+        },
+        {
+            "label": "Century",
+            "value": "15th century"
+        },
+        {
+            "label": "Text Language",
+            "value": "Latin"
+        },
+        {
+            "label": "Script Type",
+            "value": "Gothic Script (generic)"
+        },
+        {
+            "label": "Liturgica",
+            "value": "Book of hours"
+        }
+    ],
+    "description": [
+        {
+            "@value": "Inc. / Exp.: Gloria patri et filio et spirtui.../...demon infernalis. Protegat et nu[triat]...\r\nDamaged on bottom right verso.\r\nCatchword \"triat\" in lower right margin of verso.",
+            "@language": "en"
+        }
+    ],
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Fragmentarium \u2013 International Digital Research Lab for Medieval Manuscript Fragments",
+    "logo": "https://fragmentarium.ms/img/fragmentarium-logo-sm-square.png",
+    "service": "https://fragmentarium.ms/search/",
+    "seeAlso": "https://fragmentarium.ms/overview/F-t38z",
+    "within": "https://fragmentarium.ms/search?sQueryString=C-k536",
+    "sequences": [
+        {
+            "@id": "https://fragmentarium.ms/metadata/iiif/F-t38z/sequence/Sequence-649.json",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://fragmentarium.ms/metadata/iiif/F-t38z/canvas/F-t38z/New_York_State_Library_recto_.jpg.json",
+                    "@type": "sc:Canvas",
+                    "label": "New_York_State_Library_recto_",
+                    "height": 1093,
+                    "width": 796,
+                    "images": [
+                        {
+                            "@id": "https://fragmentarium.ms/metadata/iiif/F-t38z/annotation/F-t38z/New_York_State_Library_recto_.jpg.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://fragmentarium.ms/metadata/iiif/F-t38z/canvas/F-t38z/New_York_State_Library_recto_.jpg.json",
+                            "resource": {
+                                "@id": "https://fragmentarium.ms:443/loris/F-t38z/New_York_State_Library_recto_.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1093,
+                                "width": 796,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://fragmentarium.ms:443/loris/F-t38z/New_York_State_Library_recto_.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://fragmentarium.ms/metadata/iiif/F-t38z/canvas/F-t38z/New_York_State_Library_verso_.jpg.json",
+                    "@type": "sc:Canvas",
+                    "label": "New_York_State_Library_verso_",
+                    "height": 1112,
+                    "width": 842,
+                    "images": [
+                        {
+                            "@id": "https://fragmentarium.ms/metadata/iiif/F-t38z/annotation/F-t38z/New_York_State_Library_verso_.jpg.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://fragmentarium.ms/metadata/iiif/F-t38z/canvas/F-t38z/New_York_State_Library_verso_.jpg.json",
+                            "resource": {
+                                "@id": "https://fragmentarium.ms:443/loris/F-t38z/New_York_State_Library_verso_.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1112,
+                                "width": 842,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://fragmentarium.ms:443/loris/F-t38z/New_York_State_Library_verso_.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
